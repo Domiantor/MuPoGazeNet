@@ -10,7 +10,7 @@ MuPo-GazeNet is a multimodal gaze-estimation framework for head-mounted augmente
 
 A lightweight bias-compensation module enables personalized gaze estimation with approximately one second of single-point calibration, without retraining the backbone network.
 
-![Overview of MuPo-GazeNet](assets/overview.png)
+![Overview of MuPo-GazeNet](overview.png)
 
 *Overview of the challenges, proposed framework, and potential applications of MuPo-GazeNet.*
 
